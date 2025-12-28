@@ -1,0 +1,7 @@
+{
+  "name": "Parsa AI",
+  "description": "A personal AI assistant and chatbot named Parsa AI, featuring light/dark themes, multi-language support (English/Persian), image analysis, image generation, and a dynamic, responsive interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
